@@ -64,8 +64,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jv-maroto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv-maroto&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jv-maroto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jv-maroto&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -81,8 +81,8 @@
 
 <div align="center">
 
-[![Fitness App Pro](https://github-readme-stats.vercel.app/api/pin/?username=jv-maroto&repo=fitness-app-pro&theme=tokyonight)](https://github.com/jv-maroto/fitness-app-pro)
-[![Calculadora Calorias](https://github-readme-stats.vercel.app/api/pin/?username=jv-maroto&repo=calculadora-calorias&theme=tokyonight)](https://github.com/jv-maroto/calculadora-calorias)
+[![Fitness App Pro](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jv-maroto&repo=fitness-app-pro&theme=tokyonight)](https://github.com/jv-maroto/fitness-app-pro)
+[![Calculadora Calorias](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jv-maroto&repo=calculadora-calorias&theme=tokyonight)](https://github.com/jv-maroto/calculadora-calorias)
 
 </div>
 
