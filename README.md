@@ -2,7 +2,7 @@
 
 # Hola, soy Javier Maroto 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Django+%7C+PHP;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Administrador+de+Sistemas;React+%7C+Django+%7C+PHP;Ciberseguridad+%7C+DevOps" alt="Typing SVG" />
 
 </div>
 
@@ -10,10 +10,12 @@
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en proyectos de **fitness y productividad**
-- 🌱 Aprendiendo constantemente nuevas tecnologías
-- 💬 Pregúntame sobre **React, Django, PHP, JavaScript**
-- ⚡ Fun fact: Me apasiona el desarrollo web y el fitness
+- 🔭 **Full Stack Developer** & **Administrador de Sistemas**
+- 🖥️ Gestión de **Windows Server** y **Linux**
+- 🔒 Experiencia en **Ciberseguridad** y hardening
+- 🤖 Automatizaciones con **Python**, **Bash** y **PowerShell**
+- 💬 Pregúntame sobre **React, Django, PHP, Infraestructura IT**
+- ⚡ Apasionado del desarrollo web, fitness y la seguridad informática
 
 ---
 
@@ -39,9 +41,20 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### SysAdmin & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### Ciberseguridad
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
