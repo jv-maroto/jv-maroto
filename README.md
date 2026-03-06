@@ -55,19 +55,6 @@ Aplicacion full-stack para la gestion integral de empleados: nominas, vacaciones
 </div>
 -->
 
-[![Portal-Employes](https://github-readme-stats.vercel.app/api/pin/?username=jv-maroto&repo=Portal-Employes&theme=tokyonight)](https://github.com/jv-maroto/Portal-Employes)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jv-maroto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv-maroto&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
 ---
 
 <div align="center">
