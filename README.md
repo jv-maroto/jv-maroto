@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Backend+Developer;SysAdmin+%7C+DevOps;Django+%7C+React+%7C+Docker+%7C+PostgreSQL" alt="Typing SVG" />
 
-Desarrollo aplicaciones web robustas con Django y React, y administro infraestructuras en produccion.
-3 anos de experiencia como SysAdmin. Buscando oportunidades remotas como Backend Developer o DevOps.
+I build robust web applications with Django and React, and manage production infrastructure.
+3+ years of experience as SysAdmin. Looking for remote opportunities as Backend Developer or DevOps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-dom%C3%ADnguez-7a9974150/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javidominguez060@gmail.com)
@@ -33,40 +33,40 @@ Desarrollo aplicaciones web robustas con Django y React, y administro infraestru
 
 ---
 
-## Proyecto Destacado
+## Featured Projects
 
-### [Portal-Employes](https://github.com/jv-maroto/Portal-Employes) — Sistema de Gestion Empresarial
+### [Portal-Employes](https://github.com/jv-maroto/Portal-Employes) — Employee Management System
 
-Aplicacion full-stack para la gestion integral de empleados: nominas, vacaciones, comunicados y dashboard interactivo.
+Full-stack application for employee management: payroll, time-off, company announcements and interactive dashboard.
 
 **Stack:** Django 5.0 + DRF | React 18 + Tailwind CSS | PostgreSQL | Docker Compose | Nginx
 
-**Funcionalidades principales:**
-- Dashboard interactivo con paneles personalizados por rol
-- Gestion de nominas con descarga PDF, historial y filtros
-- Sistema de vacaciones con calendario visual y firmas digitales
-- Comunicados de empresa por departamento con editor rich content
-- Autenticacion completa (Login/Signup)
-- Dockerizado y listo para produccion con `docker-compose up --build`
+**Key features:**
+- Interactive dashboard with role-based personalized panels
+- Payroll management with PDF export, history and filters
+- Time-off system with visual calendar and digital signatures
+- Company announcements by department with rich content editor
+- Full authentication (Login/Signup)
+- Dockerized and production-ready with `docker-compose up --build`
 
-<!-- Descomentar cuando tengas screenshots:
+<!-- Uncomment when screenshots are ready:
 <div align="center">
 <img src="screenshots/dashboard.png" alt="Dashboard" width="80%"/>
 </div>
 -->
 
-### [CineStream](https://github.com/jv-maroto/cinestream) — Biblioteca Multimedia con IA
+### [CineStream](https://github.com/jv-maroto/cinestream) — AI-Powered Media Library
 
-Plataforma estilo Netflix para gestionar tu coleccion multimedia con analisis automatico mediante inteligencia artificial.
+Netflix-style platform to manage your media collection with automatic AI-powered analysis.
 
 **Stack:** FastAPI + React 18 + PostgreSQL + Redis + Celery + Docker Compose + YOLO + CLIP
 
-**Funcionalidades principales:**
-- Escaneo automatico de archivos multimedia con identificacion inteligente
-- Metadatos automaticos desde TMDB
-- Clasificacion de escenas con YOLO y CLIP (soporte GPU)
-- Arquitectura de microservicios (7 contenedores Docker)
-- Busqueda avanzada, seguimiento de progreso, interfaz moderna
+**Key features:**
+- Automatic media file scanning with smart identification
+- Automatic metadata fetching from TMDB
+- Scene classification with YOLO and CLIP (GPU support)
+- Microservices architecture (7 Docker containers)
+- Advanced search, watch progress tracking, modern UI
 
 ---
 
