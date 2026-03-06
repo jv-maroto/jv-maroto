@@ -2,7 +2,7 @@
 
 # Javier Dominguez
 
-**Backend Developer & SysAdmin**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Backend+Developer;SysAdmin+%7C+DevOps;Django+%7C+React+%7C+Docker+%7C+PostgreSQL" alt="Typing SVG" />
 
 Desarrollo aplicaciones web robustas con Django y React, y administro infraestructuras en produccion.
 3 anos de experiencia como SysAdmin. Buscando oportunidades remotas como Backend Developer o DevOps.
@@ -55,7 +55,7 @@ Aplicacion full-stack para la gestion integral de empleados: nominas, vacaciones
 </div>
 -->
 
-[![Portal-Employes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jv-maroto&repo=Portal-Employes&theme=tokyonight)](https://github.com/jv-maroto/Portal-Employes)
+[![Portal-Employes](https://github-readme-stats.vercel.app/api/pin/?username=jv-maroto&repo=Portal-Employes&theme=tokyonight)](https://github.com/jv-maroto/Portal-Employes)
 
 ---
 
@@ -63,8 +63,8 @@ Aplicacion full-stack para la gestion integral de empleados: nominas, vacaciones
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jv-maroto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jv-maroto&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jv-maroto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv-maroto&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
