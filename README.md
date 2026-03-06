@@ -7,7 +7,7 @@
 Desarrollo aplicaciones web robustas con Django y React, y administro infraestructuras en produccion.
 3 anos de experiencia como SysAdmin. Buscando oportunidades remotas como Backend Developer o DevOps.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-dominguez-7a9974150/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-dom%C3%ADnguez-7a9974150/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javidominguez060@gmail.com)
 
 </div>
@@ -54,6 +54,19 @@ Aplicacion full-stack para la gestion integral de empleados: nominas, vacaciones
 <img src="screenshots/dashboard.png" alt="Dashboard" width="80%"/>
 </div>
 -->
+
+### [CineStream](https://github.com/jv-maroto/cinestream) — Biblioteca Multimedia con IA
+
+Plataforma estilo Netflix para gestionar tu coleccion multimedia con analisis automatico mediante inteligencia artificial.
+
+**Stack:** FastAPI + React 18 + PostgreSQL + Redis + Celery + Docker Compose + YOLO + CLIP
+
+**Funcionalidades principales:**
+- Escaneo automatico de archivos multimedia con identificacion inteligente
+- Metadatos automaticos desde TMDB
+- Clasificacion de escenas con YOLO y CLIP (soporte GPU)
+- Arquitectura de microservicios (7 contenedores Docker)
+- Busqueda avanzada, seguimiento de progreso, interfaz moderna
 
 ---
 
